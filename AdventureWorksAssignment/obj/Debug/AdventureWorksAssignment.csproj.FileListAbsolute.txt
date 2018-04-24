@@ -1,0 +1,9 @@
+C:\Users\MTCStudent\Desktop\Homework - Master\Master\AdventureWorksAssignment\AdventureWorksAssignment\bin\Debug\AdventureWorksAssignment.exe.config
+C:\Users\MTCStudent\Desktop\Homework - Master\Master\AdventureWorksAssignment\AdventureWorksAssignment\bin\Debug\AdventureWorksAssignment.exe
+C:\Users\MTCStudent\Desktop\Homework - Master\Master\AdventureWorksAssignment\AdventureWorksAssignment\bin\Debug\AdventureWorksAssignment.pdb
+C:\Users\MTCStudent\Desktop\Homework - Master\Master\AdventureWorksAssignment\AdventureWorksAssignment\obj\Debug\AdventureWorksAssignment.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\Homework - Master\Master\AdventureWorksAssignment\AdventureWorksAssignment\obj\Debug\AdventureWorksAssignment.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\Homework - Master\Master\AdventureWorksAssignment\AdventureWorksAssignment\obj\Debug\AdventureWorksAssignment.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\Homework - Master\Master\AdventureWorksAssignment\AdventureWorksAssignment\obj\Debug\AdventureWorksAssignment.exe
+C:\Users\MTCStudent\Desktop\Homework - Master\Master\AdventureWorksAssignment\AdventureWorksAssignment\obj\Debug\AdventureWorksAssignment.pdb
+C:\Users\MTCStudent\Desktop\Homework - Master\Master\AdventureWorksAssignment\AdventureWorksAssignment\obj\Debug\AdventureWorksAssignment.MasterForm.resources
