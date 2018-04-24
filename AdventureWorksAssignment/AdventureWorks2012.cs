@@ -13,7 +13,7 @@ namespace AdventureWorksAssignment
 {
     public partial class MasterForm : Form
     {
-        const string ConnString = @"Server=DTPLAPTOP02\MTCStudent;Database=AdventureWorks2012;Trusted_Connection=True;";
+        const string ConnString = @"Server=DTPLAPTOP02;Database=AdventureWorks2012;Trusted_Connection=True;";
         SqlConnection sqlConnection = new SqlConnection(ConnString);
 
         public MasterForm()
@@ -50,7 +50,15 @@ namespace AdventureWorksAssignment
 
         private void dataGrid_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
+            //it checks if the row index of the cell is greater than or equal to zero
+            if (e.RowIndex >= 0)
+            {
+                //gets a collection that contains all the rows
+                DataGridViewRow row = this.dataGrid.Rows[e.RowIndex];
+                //populate the textbox from specific value of the coordinates of column and row.
+                salesOrderIDTB.Text = row.Cells[0].Value.ToString();
 
+            }
         }
 
         private void CustomerCB_SelectedIndexChanged(object sender, EventArgs e)
